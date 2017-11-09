@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MonkeyBanana:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/MonkeyBanana_jar</output-path>
+    <root id="archive" name="MonkeyBanana.jar">
+      <element id="module-output" name="MonkeyBanana" />
+    </root>
+  </artifact>
+</component>
