@@ -32,6 +32,11 @@ public class Game extends JPanel implements ActionListener, KeyListener {
 		initialize();
 	}
 
+
+	/*
+	this is the initialize method. which initializes the defaults of the program
+
+	 */
 	private static void initialize() {
 
 		gameFrame = new JFrame("Monkey Banana");
